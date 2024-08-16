@@ -1,0 +1,2 @@
+4.4 16:20 - I got help with understanding the terrain generating algorithm, especially the blend function during oh.
+4.24 15:25 - During oh, I got help with scaling the perlin noise function down and not repeating itself.
